@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>ex6</title>
+    <link rel="stylesheet" href="exo6.css">
+</head>
+
+<body>
+    <h1>Calculateur de salaire</h1>
+    <form id="myForm" onsubmit="return false;">
+        <div>
+            <label for="grossSalary">Salaire brut :</label>
+            <input id="grossSalary" type="number">$
+        </div>
+        </br>
+        <div>
+            <label for="additionBonus">Bonus :</label>
+            <input id="additionBonus" type="checkbox">
+        </div>
+        </br>
+        <div>
+            <label for="additionAllowance">Allocation :</label>
+            <input id="additionAllowance" type="checkbox">
+        </div>
+        </br>
+        <div>
+            <label for="gender">Genre :</label>
+            <select id="gender">
+                <option value="M">Homme</option>
+                <option value="F">Femme</option>
+            </select>
+        </div>
+        </br>
+        <div>
+            <label for="dependents">Personnes à charge :</label>
+            <input id="dependents" type="number">
+        </div>
+        <div>
+            </br>
+
+            <input type="submit" value="Calculer" onclick="computeSalary()">
+            <input type="reset" value="Effacer" onclick="resetAll()">
+        </div>
+    </form><br>
+    </form>
+    <hr>
+    <p>Impôt sur le revenu&nbsp;: <span id="incomeTaxResult"></span></p>
+    <p>Assurance employé&nbsp;: <span id="employmentInsuranceResult"></span></p>
+    <p>Régime de pensions du Canada&nbsp;: <span id="canadaPensionPlanResult"></span></p>
+    <p>Suppléments&nbsp;: <span id="additionsResult"></span></p>
+    <p>Salaire net&nbsp;: <span id="finalSalaryResult"></span></p>
+
+
+    <script src="exo6.js"></script>
+</body>
+
+</html>
