@@ -1,0 +1,14 @@
+body
+{
+    background-color: #79cef4;
+}
+table 
+{
+    border-collapse: collapse;
+    text-align: left;
+}
+    
+tr
+{
+    border: 3px solid black;
+}
