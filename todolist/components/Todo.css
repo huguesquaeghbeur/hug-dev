@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'jinkyregular';
+    src: url('jinky-webfont.eot');
+    src: url('jinky-webfont.eot?#iefix') format('embedded-opentype'),
+         url('jinky-webfont.woff2') format('woff2'),
+         url('jinky-webfont.woff') format('woff'),
+         url('jinky-webfont.ttf') format('truetype'),
+         url('jinky-webfont.svg#jinkyregular') format('svg');
+    font-style: bold;
+
+}
+body{
+    background-image: url('bureau.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index: 2;
+}
+input{
+    border: none;
+}
+.post-it {
+    z-index: 1;
+    display: flex;
+    justify-content: left;
+    width: 60%;
+    margin: auto;
+    margin-top: 30px;
+    padding: 2%;
+    font-family: 'jinkyregular';
+    font-size: 60px;
+    font-weight: 700;
+    background-color: #ffffa5;
+    box-shadow: 2px 4px 6px black;
+    -moz-box-shadow: 2px 4px 6px black;
+    -webkit-box-shadow: 2px 4px 6px black;
+    transform: rotate(2deg);
+    -moz-transform: rotate(2deg);
+    -webkit-transform: rotate(2deg);
+    -o-transform: rotate(2deg);
+    -ms-transform: rotate(2deg);
+    border-bottom-right-radius: 60px 15px;
+}
+.title{
+    font-family: 'jinkyregular';
+    font-size: 80px;
+    font-weight: 700;
+}
+
+li{
+    list-style-type: none;
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+li.checked {
+  text-decoration: line-through;
+}
+
+li.checked::before {
+    content: '';
+    position: absolute;
+    border-color: black;
+    border-style: solid;
+    border-width: 0 2px 2px 0;
+    top: 20px;
+    left: 20px;
+    transform: rotate(45deg);
+    height: 15px;
+    width: 7px;
+}
+
+button{
+    outline: none;
+    border-color: none;
+    align-content: row-reverse;
+}

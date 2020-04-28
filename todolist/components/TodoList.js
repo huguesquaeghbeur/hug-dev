@@ -15,7 +15,11 @@ function TodoList(props) {
     };
     return (
         <div>
-            <input type="text" onChange={handleTodo} value={add}/>
+            <h2 class="title">My To Do List</h2>
+            <input type="text" 
+                   placeholder="Add a new task......"
+                   onChange={handleTodo} 
+                   value={add}/>
             <button onClick={addTodo}>ADD</button>
         </div>
     );
