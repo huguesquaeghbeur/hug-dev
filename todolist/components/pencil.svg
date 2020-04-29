@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 765 31.25" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="g" x2="0" y1="24.444" y2="22.526" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-color="#3b3735" offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" x2="0" y1="6.7133" y2="8.6317" gradientUnits="userSpaceOnUse">
+   <stop offset="0"/>
+   <stop stop-color="#3b3735" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="765.42" x2="753.02" y1="8.7558" y2="18.567" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cbcbcb" offset="0"/>
+   <stop stop-color="#3b3735" offset=".72"/>
+   <stop stop-color="#3b3735" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x2="0" y1="7.8383" y2="10.01" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cbcbcb" offset="0"/>
+   <stop stop-color="#3b3735" offset=".98"/>
+   <stop stop-color="#3b3735" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x2="0" y1="9.9717" y2="7.8004" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#304e92" offset="0"/>
+   <stop stop-color="#cbd1ec" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x2="0" y1=".7104" y2="8.35" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c6c6c6" offset="0"/>
+   <stop stop-color="#f1f1f1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x2="0" y1="30.538" y2="22.773" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c6c6c6" offset="0"/>
+   <stop stop-color="#f1f1f1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="j" x2="0" y1="22.567" y2="24.186" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1b4d90" offset="0"/>
+   <stop stop-color="#1f357b" offset="1"/>
+  </linearGradient>
+  <linearGradient id="h" x2="0" y1="8.469" y2="6.8495" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1b4d90" offset="0"/>
+   <stop stop-color="#213a85" offset="1"/>
+  </linearGradient>
+  <linearGradient id="i" x2="0" y1="10.86" y2="16.124" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b4a09c" offset="0"/>
+   <stop stop-color="#3b3735" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(.99929 0 0 1.008 1.0493 .0178)" font-size="12">
+  <path d="m58.178 0.75455h662.78v29.492h-662.78v-29.492z" fill="#1b4d90"/>
+  <path d="m58.204 22.567h662.65v1.6195h-662.65v-1.6195z" fill="url(#j)"/>
+  <path d="m720.82 24.128h-662.75v6.413h662.75v-6.413z" fill="#1f357b"/>
+  <path d="m58.204 8.469h662.65v-1.6195h-662.65v1.6195z" fill="url(#h)"/>
+  <path d="m720.82 6.908h-662.64v-6.2164h662.64v6.2164z" fill="#213983"/>
+ </g>
+ <path transform="matrix(.99929 0 0 1.008 1.0493 .0178)" d="m705.39 0.68573h50.556v29.83h-50.556v-29.83z"/>
+ <path transform="matrix(.99929 0 0 1.008 1.0493 .0178)" d="m705.41 7.998h50.528v14.528h-50.528v-14.528z" fill="#363636"/>
+ <path transform="matrix(.99929 0 0 1.008 1.0493 .0178)" d="m705.41 22.526h50.494v1.9184h-50.494v-1.9184z" fill="url(#g)"/>
+ <path transform="matrix(.99929 0 0 1.008 1.0493 .0178)" d="m705.41 8.6317h50.494v-1.9184h-50.494v1.9184z" fill="url(#f)"/>
+ <path transform="matrix(.97919 0 0 1.0053 16.391 .09813)" d="m755.73 0.60071c17.682 15.38 0 29.946 0 29.946"/>
+ <path transform="matrix(.99929 0 0 1.008 1.0493 .0178)" d="m756.52 4.3204c12.139 9.5951 0 18.682 0 18.682" fill="url(#e)"/>
+ <path transform="matrix(.99929 0 0 1.008 1.0493 .0178)" d="m705.41 7.8383h50.353v2.1713h-50.353v-2.1713z" fill="url(#d)"/>
+ <path transform="matrix(.9999 0 0 1.008 .62327 .0178)" d="m58.415 7.8004h639.42v2.1713h-639.42v-2.1713z" fill="url(#c)"/>
+ <path transform="matrix(.99929 0 0 1.008 1.0493 .0178)" d="m697.82 0.64792h7.549v29.934h-7.549v-29.934z" fill="#f4f4f4"/>
+ <path transform="matrix(.99929 0 0 1.008 1.0493 .0178)" d="m697.82 0.71042h7.549v7.6396h-7.549v-7.6396z" fill="url(#b)"/>
+ <path transform="matrix(.99929 0 0 1.008 1.0493 .0178)" d="m697.82 30.538h7.549v-7.7646h-7.549v7.7646z" fill="url(#a)"/>
+ <path transform="matrix(.99794 0 0 1.0106 1.0497 .01626)" d="m58.202 0.58734-57.879 15.024 57.924 14.901" fill="#bba075"/>
+ <path transform="matrix(1.0144 0 0 1.0106 .09014 .01617)" d="m58.158 0.61859 1.7694 0.06271s-3.5389 0.37631 0 2.6966-1.5925 3.7628-1.504 5.8323 3.362 2.0695 4.6891 5.3305-4.2467 2.8848-4.1583 5.8323 3.9813 2.3204 4.2467 4.0764-3.8928 3.5745-4.3351 4.578 2.3002 0.5644 2.8311 1.3796c-1.9464 0.1882-3.5389 0-3.5389 0v-29.789" fill="#bba075"/>
+ <path transform="matrix(1.0181 0 0 1.008 -.16974 .0178)" d="m48.344,11.8061c-10.0078.4375-19.1412.4375-24.8738-.125-.0971.75-.2915.9375-.1943,1.1875s22.9135.518 37.3107-1.25c-.456-.4088-1.166-.75-1.166-.75" fill="#b99263"/>
+ <path transform="matrix(1.0181 0 0 1.008 1.5478 5.845)" d="m47.4238,10.0092c-10.0078.4375-18.221,2.2344-23.9536,1.6719-.0971.75.2453,1.25.3425,1.5s23.5269-3.62264 35.8538-1.25c.5408-.4869.9043-.5937 1.441-.9062" fill="#b99263"/>
+ <path transform="matrix(1.0154 .07512 -.04789 .65862 2.3992 11.6)" d="m47.4238,10.0092c-10.0078.4375-18.221,2.2344-23.9536,1.6719-.0971.75-.0606,1.2849.0366,1.5349s25.3903-3.23736 37.7172-.8647c.3823-.5884-2.123-1.205-1.5863-1.5175" fill="#b99263"/>
+ <path transform="matrix(1.0044 .16799 -.1071 .65149 3.488 9.5206)" d="m47.7762,11.127c-10.0078.4375-18.5734,1.1166-24.306.5541-.0971.75-.0606,1.2849.0366,1.5349s22.7423-1.8293 35.0692.5433c.3823-.5884.8899-1.3775 1.6539-2.4739" fill="#b99263"/>
+ <g transform="matrix(.98715 0 0 .98364 1.0493 .39559)" font-size="12">
+  <path d="m25.381 9.0585s-2.0362 0.78623-2.2558 3.774 1.7574 4.5604 2.4164 5.8183-0.5999 3.3598-0.5999 3.3598l-24.942-6.405" fill="#3b3735"/>
+  <path d="m0.68427 15.649 22.999-4.7894s-1.2683 2.8936-0.0138 4.8891c-4.1816 0.898-22.985-0.0997-22.985-0.0997" fill="url(#i)"/>
+ </g>
+ <path transform="matrix(.99929 0 0 1.008 1.0493 .0178)" d="m61.057 4.1553c-9.5594-0.08071-26.732 2.5831-26.732 2.5831s2.44-0.12799 12.002-0.34597" fill="#b98f5d"/>
+ <text transform="scale(.99929 1.1335)" x="723.10199" y="18.89386" fill="#efefef" font-family="Helvetica" font-size="14">2H</text>
+ <text transform="scale(.99929,.46978)" x="722.84601" y="14.38106" fill="#efefef" font-family="Helvetica" font-size="14">2H</text>
+ <text transform="scale(.99929,.46978)" x="722.82001" y="62.15622" fill="#cbcbcb" font-family="Helvetica" font-size="14">2H</text>
+</svg>

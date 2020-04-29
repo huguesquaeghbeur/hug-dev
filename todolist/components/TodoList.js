@@ -13,16 +13,18 @@ function TodoList(props) {
         });
         setAdd("");
     };
-    return (
-        <div>
-            <h2 class="title">My To Do List</h2>
-            <input type="text" 
-                   placeholder="Add a new task......"
-                   onChange={handleTodo} 
-                   value={add}/>
-            <button onClick={addTodo}>ADD</button>
+    return(
+        <div class="list">
+            <div class="deco">
+                <h2 class="title">My To Do List</h2>
+                <input type="text"
+                        placeholder="Add a new task......"
+                        onChange={handleTodo}
+                        value={add} />
+                <button onClick={addTodo}>ADD</button>
+            </div>
         </div>
-    );
+    )
 }
 export default TodoList;
 
